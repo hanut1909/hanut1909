@@ -2,7 +2,7 @@
 - 👀 I’m interested in Python Programming
 - 🌱 I’m currently learning basics of Python and various algorithms and data structures in Python
 - 💞️ I’m looking to collaborate on any open projects in Python related development or any other similar projects
-- 📫 To reach me, kindly send a mail to hanutsinghj1995@gmail.com.  
+- 📫 To reach me, kindly send a mail to hanut.singh1995@gmail.com.  
 
 <!---
 hanut1909/hanut1909 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
